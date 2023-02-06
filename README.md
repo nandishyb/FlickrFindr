@@ -1,2 +1,2 @@
 # FlickrFindr
-Sear the photos with flickr.
+Search the photos with flickr.
